@@ -1,0 +1,6 @@
+{
+  "name": "ARGUS Cykl 2 — 3D Digital Twin & Audyt v1.1",
+  "description": "Interaktywny bliźniak cyfrowy 3D namiotu DiamondBox SL100, audyt dowodowy Cyklu 2 v1.1, analiza zdjęć i czat Gemini z trybem głębokiego myślenia oraz laboratorium naukowe Bioscience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
